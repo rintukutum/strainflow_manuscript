@@ -57,13 +57,16 @@ pip install requirements.txt
 Contributor names and contact info
 * Sargun Nagpal - sargunnagpal@gmail.com
 * Ridam Pal - ridamp@iiitd.ac.in
-* Rintu Kutum - rintuk@iiitd.ac.in
 * Ashima - ashima19031@iiitd.ac.in
 * Ananya Tyagi - ananya19114@iiitd.ac.in
+* Sadhana Tripathi - sadhana20214@iiitd.ac.in
+* Aditya Nagori - aditya.kumar@igib.in
+* Saad Ahmad - saad18409@iiitd.ac.in
+* Hara Prasad Mishra - harap@iiitd.ac.in
 
-## Version History
-* 0.1
-    * Initial Release
+Corresponding Authors
+* Tavpritesh Sethi - tavpriteshsethi@iiitd.ac.in
+* Rintu Kutum - rintuk@iiitd.ac.in
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
